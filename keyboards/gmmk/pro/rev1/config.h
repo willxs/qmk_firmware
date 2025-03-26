@@ -16,7 +16,6 @@
 
 #pragma once
 
-#define FORCE_NKRO
 
 /* SPI Config for LED Driver */
 #define SPI_DRIVER SPID1
