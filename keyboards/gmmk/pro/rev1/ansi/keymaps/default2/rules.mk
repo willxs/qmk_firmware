@@ -1,0 +1,2 @@
+LTO_ENABLE = yes
+VIA_ENABLE = no
